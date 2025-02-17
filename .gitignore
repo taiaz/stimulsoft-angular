@@ -1,0 +1,40 @@
+node_modules/
+dist/
+build/
+.idea/
+.vscode/
+.DS_Store
+package-lock.json
+yarn.lock
+coverage/
+temp/
+npm-debug.log
+yarn-error.log
+*.log
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Angular specific files
+.angular/
+*.ngfactory.ts
+*.ngsummary.json
+*.orig
+
+# Compiled output
+out-tsc/
+*.js
+*.d.ts
+
+# Test coverage
+coverage/
+
+# IDE and Editor settings
+/.idea
+/.vscode
+/.npm
+/.cache
+
+# Environment files
+src/environments/environment*.ts
